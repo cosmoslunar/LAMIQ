@@ -1,0 +1,2 @@
+# LAMIQ
+uayor, localai
